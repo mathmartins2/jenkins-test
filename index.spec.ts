@@ -1,5 +1,5 @@
 describe('Jenkins', () => {
   it('should work', () => {
-    expect(true).toBeTruthy()
+    expect(true).toBeFalsy()
   })
 })
